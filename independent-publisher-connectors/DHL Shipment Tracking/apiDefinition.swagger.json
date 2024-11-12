@@ -90,9 +90,10 @@
             }
           }
         },
-        "summary": "Get shipment tracking",
+        "summary": "Get shipment tracking (deprecated)",
         "operationId": "ShipmentTracking",
-        "description": "Get shipment tracking",
+        "description": "Get shipment tracking (deprecated)",
+        "deprecated": true,
         "parameters": [
           {
             "$ref": "#/parameters/trackingNumber"
