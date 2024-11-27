@@ -353,8 +353,12 @@
   "x-ms-connector-metadata": [
     {
       "propertyName": "Website",
-      "propertyValue": "https://www.dhl.com/"
+      "propertyValue": "DEPRECATED"
     },
+    {
+      "propertyName": "Privacy policy",
+      "propertyValue": "DEPRECATED"
+    }
     {
       "propertyName": "Categories",
       "propertyValue": "Commerce"
